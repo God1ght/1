@@ -64,7 +64,7 @@ $$
 | :------: | :----------------------------------------------------------: | :------: |
 |    1     |             $f_1(t) =  6 \sin\frac{t-200}{6\pi}$             | Actuator |
 |    2     |                   $f_2(t) =  0.02(t-200)$                    | Actuator |
-|    3     | $f_3(t) = 0.005(t-200) + (-1)^{ \left\lfloor \frac{t}{48} \right\rfloor - \left\lfloor \frac{t}{60} \right\rfloor }$ | Actuator |
+|    3     | $f_3(t) = 0.005(t-200) + (-1)^{ \left\lfloor \frac{t}{48}  - \frac{5}{4}\left\lfloor \frac{t}{60} \right\rfloor \right\rfloor }$ | Actuator |
 |    4     |                   $f_4(t) = -0.005(t-200)$                   |  Sensor  |
 |    5     |                   $f_5(t) = 0.005(t-200)$                    |  Sensor  |
 |    6     |                   $f_6(t) = 0.008(t-200)$                    |  Sensor  |
