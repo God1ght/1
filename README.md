@@ -96,9 +96,9 @@ $$ {}
 \begin{equation}
     \begin{split}
         f\left( h \right) = \left[ {\begin{array}{*{20}{c}}
-{\frac{-a_1s_{13}sign(h_1-h_3)\sqrt{2g|h_1-h_3|})}{{\cal A}}}\\
-{\frac{a_3s_{23}sign(h_3-h_2)\sqrt{2g|h_3-h_2|}-a_2s_0\sqrt{2gh_2})}{{\cal A}}}\\
-{\frac{a_1s_{13}sign(h_1-h_3)\sqrt{2g|h_1-h_3|}-a_3s_{23}sign(h_3-h_2)\sqrt{2g|h_3-h_2|}}{{\cal A}}}
+{\frac{-a_1 s_{13}sign(h_1-h_3)\sqrt{2g|h_1-h_3|})}{{\cal A}}}\\
+{\frac{a_3 s_{23}sign(h_3-h_2)\sqrt{2g|h_3-h_2|}-a_2s_0\sqrt{2gh_2})}{{\cal A}}}\\
+{\frac{a_1 s_{13}sign(h_1-h_3)\sqrt{2g|h_1-h_3|}-a_3s_{23}sign(h_3-h_2)\sqrt{2g|h_3-h_2|}}{{\cal A}}}
 \end{array}} \right],h = \left[ {\begin{array}{*{20}{c}}
 {h_1}\\
 {h_2}\\
